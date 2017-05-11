@@ -1,7 +1,7 @@
 ![alt text](assets/inqubator-logo.png "inqubator logo")
 
 ---
-
+![alt text](assets/poster.jpg "poster")
 # Decoded
 >Tech crash course by Bluqube
 
@@ -23,7 +23,7 @@ This nanocourse is divided into two sections. The skills you will learn here wil
 ## Android on Fire
 > Walkthrough on the different processes in developing your first Android App based on the design that you created.
 
-![alt text](assets/fire.png "Apps")
+![alt text](assets/fire.png "android fire")
 
 ### Section Contents
 * Building your app natively using Java
