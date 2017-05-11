@@ -33,6 +33,11 @@ This nanocourse is divided into two sections. The skills you will learn here wil
 * Learning how to easily write and read almost any data to Firebase for Android.
 * Using Google APIs.
 
+## Resources
+
+* [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries.
+* [Awesome Android](https://snowdream.github.io/awesome-android/) - GitHub online document for Android development.
+
 ---
 
 ## What's Next?
